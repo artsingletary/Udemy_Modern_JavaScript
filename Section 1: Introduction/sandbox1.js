@@ -6,7 +6,7 @@ let firstName = 'Art';
 let lastName = 'Singletary';
 
 let fullName = firstName + ' ' + lastName;
-
+console.log(email.length);
 
 console.log(fullName);
 
@@ -17,7 +17,7 @@ console.log(fullName[0]);
 console.log(fullName.length);
 
 // string methods
-console.log(fullName.toUpperCase());
+console.log(email.toUpperCase());
 let result = fullName.toLowerCase();
 console.log(result);
 
