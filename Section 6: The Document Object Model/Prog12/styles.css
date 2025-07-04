@@ -31,8 +31,8 @@ button{
 .popup a{
     background: crimson;
     color: white;
-    test-decoration: none;
-    padding:6px 10px;
+    text-decoration: none;
+    padding: 6px 10px;
 }
 
 .popup-close{
